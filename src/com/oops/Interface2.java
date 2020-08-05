@@ -9,6 +9,6 @@ public interface Interface2 {
 	
 	default void method2() {
 		
-		System.out.println("Interface Default Method");
+		System.out.println("Interface new Default Method");
 	}
 }
